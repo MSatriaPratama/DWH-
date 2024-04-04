@@ -1,0 +1,23 @@
+Propinsi: Jakarta
+Ibu kota: Jakarta
+Populasi: 8839247
+
+Propinsi: Yogyakarta
+Ibu kota: Yogyakarta
+Populasi: 511744
+
+Propinsi: Jawa Barat 
+Ibu kota: Bandung
+Populasi: 2288570
+
+Propinsi: Jawa Tengah
+Ibu kota: Semarang
+Populasi: 1352869
+
+Propinsi: Jawa Timur
+Ibu kota: Surabaya
+Populasi: 2611506
+
+Propinsi: Banten
+Ibu kota: Serang
+Populasi: 501562

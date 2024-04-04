@@ -792,7 +792,7 @@ usia = Math.floor((Math.random() * 80) + 1);
       </output>
     </remotesteps>
     <GUI>
-      <xloc>768</xloc>
+      <xloc>752</xloc>
       <yloc>368</yloc>
       <draw>Y</draw>
     </GUI>
